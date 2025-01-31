@@ -16,4 +16,4 @@ A fun memory-matching game built with React. Flip cards, match pairs, and challe
 ## 🚀 Getting Started  
 1. Clone the repo:  
    ```sh
-   git clone https://github.com/yourusername/memory-card-game.git
+   git clone https://github.com/yourusername/Card-Memory-Game.git
